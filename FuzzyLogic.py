@@ -3,6 +3,7 @@ import skfuzzy as fuzz
 import matplotlib.pyplot as plt
 import math
 from skfuzzy import control as ctrl
+
 # Input data
 Battery_Capacity = 4500
 Battery_U = 3.764
