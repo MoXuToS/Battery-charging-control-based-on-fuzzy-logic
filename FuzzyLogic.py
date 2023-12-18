@@ -108,7 +108,7 @@ plt.ylim(-5, 105)
 
 # We sign the axes
 plt.ylabel('% of capacity')
-plt.xlabel('Minuts for charge')
+plt.xlabel('Minuts to charge')
 
 # Graph title customization
 time  = round(time_in_seconds / 60, 2)
